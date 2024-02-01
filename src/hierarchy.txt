@@ -1,0 +1,18 @@
+-InvoiceTable
+Most components will go in the invoice table and then the app will take in the invoice table
+    -InvoiceTableHeader
+    -InvoiceTableAddButton
+    -InvoiceTableRow
+        -Buttons
+        -Description 
+        -Rate
+        -Hours
+
+What pieces of data should be "state"?
+    -Add Row?
+        -Description
+        -Rate
+        -Hours
+        -isEditing
+
+
